@@ -13,12 +13,12 @@ Below are the online links to our notebooks and slides
 
 Links:
 
-- [Main Notebook](https://colab.research.google.com/drive/11FwlNlp9XMAfTJnEe7FfMrwPIqqhtwWq?usp=sharing)
+- [Main Notebook](./Grab_Safety_Main.ipynb)
 - [Presentation Slides](./GrabxMicrosoft_FSP_2020-Team2(Safety).pdf)
 - [Presentation Video](https://www.youtube.com/watch?v=_o42vUvuNcU)
 
 - Developer Notebooks
     - [Data Science Analysis](./developer_notebooks/Grab_Safety_EDA_FE_Inital_Exps_dev.ipynb)
-    - [Classical ML](https://colab.research.google.com/drive/1oIy8yzQduYuAGFzWDj9Qd7m1fIjY3D6A?usp=sharing)
+    - [Classical ML](./developer_notebooks/safety_ML.ipynb)
     - [Deep Learning](./developer_notebooks/Grab_Safety_DL_Model.ipynb)
     - [Main Development notebook](./developer_notebooks/Grab_Safety_main_dev.ipynb)
