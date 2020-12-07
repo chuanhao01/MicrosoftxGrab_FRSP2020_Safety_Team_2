@@ -1,15 +1,16 @@
 # MicrosoftxGrab_FRSP2020_Safety_Team_2
 
 This is Team's 2 submission for Singapore Polytechnic's MicrosoftxGrab Future Ready Skills Programme 2020 competition.  
+
+Team members and work done by:  
+- Chuan Hao ([@chuanhao01](http://github.com/chuanhao01))
+- David ([@david-the-programmer](https://github.com/david-the-programmer))
+- Sherisse ([@sherissetjw](https://github.com/sherissetjw))
+
 This submission is for the Safety problem statement.  
-
-Team's 2 submission for Singapore Polytechnic's MicrosoftxGrab Future Ready Skill Program 2020
-
-All the developer notebooks for data analysis are found in the developer_notebooks folder
-
-In the root directory is the main notebook + presentation slides
-
-Below are the online links to our notebooks and slides
+All the developer notebooks for data analysis are found in the developer_notebooks folder  
+In the root directory is the main notebook + presentation slides  
+Below are the online links to our notebooks and slides  
 
 Links:
 
